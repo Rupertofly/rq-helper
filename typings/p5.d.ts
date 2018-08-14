@@ -1,5 +1,5 @@
 // This file was auto-generated. Please do not edit it.
-
+// @ts-nocheck
 declare class p5 {
   // Properties from p5
   

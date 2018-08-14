@@ -1,3 +1,3 @@
 import * as Hf from './helperFuncs';
 
-export default module Hf;
+export default Hf

@@ -1,7 +1,7 @@
 
 import { polygonCentroid } from 'd3-polygon';
 import * as _ from 'lodash';
-
+declare const frameCount: number;
 export function hash( s: any ) {
   /* Simple hash function. */
   let a = 1;
